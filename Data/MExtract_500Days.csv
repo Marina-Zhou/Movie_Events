@@ -1,0 +1,81 @@
+EventID,MovieName,EventDescription,StartTime,EndTime,StartTime(s),EndTime(s),Duration(s),start_point,end_point,Text_length,Aligned,EventType
+1,500 Days of Summer(2009),Tom Hansen is an aspiring architect who works as a writer at a greeting card company.,0:11:51,0:12:25,711,745,34,0,85,85,Fail,stative_event
+2,500 Days of Summer(2009),"On January 8, he meets Summer Finn, a new employee.",0:01:53,0:01:55,113,115,2,86,136,50,Fail,process
+3,500 Days of Summer(2009),They discover that they have a similar taste in music.,0:10:07,0:10:40,607,640,33,138,192,54,Success,process
+4,500 Days of Summer(2009),"Later, at a karaoke night for their work, they talk about love.",0:20:10,0:21:03,1210,1263,53,193,256,63,Fail,process
+5,500 Days of Summer(2009),"Tom believes in it,",0:20:15,0:20:38,1215,1238,23,257,276,19,Fail,stative_event
+6,500 Days of Summer(2009),but Summer does not.,0:20:39,0:20:56,1239,1256,17,277,297,20,Fail,stative_event
+7,500 Days of Summer(2009),"Tom's friend and co-worker McKenzie drunkenly reveals that Tom likes Summer,",0:22:47,0:22:52,1367,1372,5,298,373,75,Fail,process
+8,500 Days of Summer(2009),"which he asserts is only ""as friends"",",0:23:15,0:23:33,1395,1413,18,375,413,38,Fail,process
+9,500 Days of Summer(2009),something Summer agrees with.,0:23:56,0:24:00,1436,1440,4,414,443,29,Fail,process
+10,500 Days of Summer(2009),"A few days later, Summer spontaneously kisses Tom in the office.",0:25:08,0:25:30,1508,1530,22,444,509,65,Success,process
+11,500 Days of Summer(2009),"They later go to IKEA together,",0:27:02,0:30:39,1622,1839,217,509,540,31,Success,process
+12,500 Days of Summer(2009),and Summer tells Tom she is not looking for a serious relationship;,0:29:41,0:29:51,1781,1791,10,541,608,67,Fail,process
+13,500 Days of Summer(2009),Tom agrees to a casual relationship.,0:29:54,0:30:13,1794,1813,19,609,645,36,Fail,process
+14,500 Days of Summer(2009),That night they have sex;,0:30:41,0:31:33,1841,1893,52,646,671,25,Success,process
+15,500 Days of Summer(2009),Tom is elated.,0:31:35,0:33:27,1895,2007,112,672,686,14,Success,stative_event
+16,500 Days of Summer(2009),"After several months of dating, they grow closer.",0:34:30,0:40:34,2070,2434,364,688,737,49,Success,change_of_state
+17,500 Days of Summer(2009),"Both Tom's friends and his preteen half-sister Rachel push him to ask Summer where they are in their relationship,",0:40:35,0:42:26,2435,2546,111,738,852,114,Success,process
+18,500 Days of Summer(2009),"though Summer brushes this off, saying that it should not matter if they are both happy.",0:42:50,0:43:13,2570,2593,23,853,941,88,Fail,process
+19,500 Days of Summer(2009),"One night, Tom gets into a fight with a man who tries to pick Summer up in a bar,",0:44:18,0:45:24,2658,2724,66,942,1023,81,Success,process
+20,500 Days of Summer(2009),causing their first argument.,0:45:26,0:47:13,2726,2833,107,1024,1053,29,Success,process
+21,500 Days of Summer(2009),"Later, Summer visits Tom;",0:48:01,0:48:33,2881,2913,32,1054,1079,25,Success,process
+22,500 Days of Summer(2009),they make up.,0:48:34,0:49:42,2914,2982,68,1080,1093,13,Success,change_of_state
+23,500 Days of Summer(2009),"Tom asks about their relationship, wanting consistency.",0:48:47,0:49:04,2927,2944,17,1094,1149,55,Fail,process
+24,500 Days of Summer(2009),Summer says she cannot promise him how she would feel in the future.,0:49:12,0:49:15,2952,2955,3,1150,1218,68,Fail,process
+25,500 Days of Summer(2009),"To show him how she currently feels, she kisses him;",0:49:20,0:49:33,2960,2973,13,1219,1271,52,Success,process
+26,500 Days of Summer(2009),they spend the night together.,0:49:37,0:49:42,2977,2982,5,1272,1302,30,Success,process
+27,500 Days of Summer(2009),"After meeting at a café, Tom wants to go back to Summer's,",1:16:48,1:16:55,4608,4615,7,1304,1362,58,Fail,process
+28,500 Days of Summer(2009),but she insists on seeing The Graduate.,1:16:49,1:17:00,4609,4620,11,1363,1402,39,Fail,process
+29,500 Days of Summer(2009),"She weeps at the ending, surprising him, as he had always thought it was a romantic fairy tale.",1:17:08,1:17:42,4628,4662,34,1403,1498,95,Success,process
+30,500 Days of Summer(2009),"Later, at the record store, Summer is distracted,",1:17:48,1:18:11,4668,4691,23,1499,1548,49,Success,stative_event
+31,500 Days of Summer(2009),and kisses him good night on the cheek.,1:18:46,1:18:49,4726,4729,3,1549,1588,39,Success,process
+32,500 Days of Summer(2009),"Tom brings her to a diner, where she lightly announces the relationship is not working, and breaks up with him.",0:05:23,0:06:28,323,388,65,1589,1700,111,Fail,process
+33,500 Days of Summer(2009),"Although she still considers Tom her best friend,",0:06:30,0:06:34,390,394,4,1701,1750,49,Fail,process
+34,500 Days of Summer(2009),he is horrified,0:00:00,0:00:00,0,0,0,1751,1766,15,Fail,stative_event
+35,500 Days of Summer(2009),and becomes depressed.,0:53:16,0:54:25,3196,3265,69,1767,1789,22,Success,change_of_state
+36,500 Days of Summer(2009),Summer quits the greeting card company.,0:55:14,0:55:19,3314,3319,5,1791,1830,39,Fail,change_of_state
+37,500 Days of Summer(2009),"Tom's boss moves him to the consolations department, as his depression is making him unsuitable for happier events.",0:55:39,0:56:34,3339,3394,55,1831,1946,115,Success,change_of_state
+38,500 Days of Summer(2009),Tom goes on a blind date with a woman named Alison.,0:58:09,0:58:24,3489,3504,15,1947,1998,51,Fail,process
+39,500 Days of Summer(2009),Tom spends the date talking about Summer until Alison leaves exasperated.,0:58:39,1:00:21,3519,3621,102,1999,2072,73,Success,process
+40,500 Days of Summer(2009),"Months later, Tom attends co-worker Millie's wedding",1:03:18,1:06:03,3798,3963,165,2074,2126,52,Success,process
+41,500 Days of Summer(2009),"and tries to avoid Summer on the train,",1:01:19,1:01:28,3679,3688,9,2127,2166,39,Success,non_event
+42,500 Days of Summer(2009),but she spots him,1:01:30,1:02:25,3690,3745,55,2167,2184,17,Success,process
+43,500 Days of Summer(2009),and invites him for coffee.,1:02:26,1:03:16,3746,3796,50,2185,2212,27,Success,process
+44,500 Days of Summer(2009),"They have a good time at the wedding,",1:03:18,1:06:03,3798,3963,165,2213,2250,37,Success,process
+45,500 Days of Summer(2009),"dance together,",1:05:18,1:05:58,3918,3958,40,2251,2266,15,Success,process
+46,500 Days of Summer(2009),and Summer catches the bouquet.,1:05:00,1:05:06,3900,3906,6,2267,2298,31,Success,process
+47,500 Days of Summer(2009),"She invites Tom to a party at her apartment,",1:05:33,1:05:42,3933,3942,9,2299,2343,44,Fail,process
+48,500 Days of Summer(2009),falling asleep on his shoulder on the ride back.,1:06:14,1:06:22,3974,3982,8,2344,2392,48,Success,change_of_state
+49,500 Days of Summer(2009),"He attends the party, hoping to rekindle their relationship,",1:07:37,1:10:03,4057,4203,146,2393,2453,60,Success,process
+50,500 Days of Summer(2009),"but barely interacts with Summer, spending most of the night drinking alone,",1:08:58,1:09:54,4138,4194,56,2454,2530,76,Success,process
+51,500 Days of Summer(2009),until he spots her engagement ring.,1:09:55,1:10:05,4195,4205,10,2531,2566,35,Success,process
+52,500 Days of Summer(2009),Tom leaves devastated.,1:10:06,1:10:49,4206,4249,43,2568,2590,22,Success,process
+53,500 Days of Summer(2009),"Further depressed, he only leaves his apartment for alcohol and junk food.",1:11:13,1:11:23,4273,4283,10,2591,2665,74,Success,process
+54,500 Days of Summer(2009),"After a few days, he returns to work hung over and,",1:11:46,1:12:08,4306,4328,22,2666,2712,46,Success,process
+55,500 Days of Summer(2009),"after an emotional outburst,",1:13:01,1:14:43,4381,4483,102,2713,2746,33,Fail,change_of_state
+56,500 Days of Summer(2009),quits.,1:14:45,1:14:59,4485,4499,14,2747,2753,6,Success,change_of_state
+57,500 Days of Summer(2009),Rachel tells Tom that she does not believe Summer was "the one",1:15:56,1:16:01,4556,4561,5,2754,2817,63,Fail,process
+58,500 Days of Summer(2009),and that he is only remembering happy memories of the relationship.,1:16:03,1:16:11,4563,4571,8,2818,2885,67,Fail,process
+59,500 Days of Summer(2009),"Tom thinks harder,",1:16:16,1:18:58,4576,4738,162,2886,2904,18,Success,process
+60,500 Days of Summer(2009),"finally seeing moments of incompatibilities he overlooked, and warning signs he missed on the day of the breakup.",1:16:35,1:18:49,4595,4729,134,2905,3018,113,Success,process
+61,500 Days of Summer(2009),"One day, Tom finds the energy to get out of bed and rededicates himself to architecture,",1:19:05,1:20:53,4745,4853,108,3019,3107,88,Success,change_of_state
+62,500 Days of Summer(2009),as Summer had encouraged him to do.,0:00:00,0:00:00,0,0,0,3108,3143,35,Fail,process
+63,500 Days of Summer(2009),He assembles a portfolio,1:20:14,1:20:50,4814,4850,36,3144,3168,24,Success,process
+64,500 Days of Summer(2009),and secures job interviews.,1:19:51,1:20:10,4791,4810,19,3169,3196,27,Success,process
+65,500 Days of Summer(2009),Summer visits Tom at his favorite spot in the city.,1:21:49,1:22:08,4909,4928,19,3198,3249,51,Success,process
+66,500 Days of Summer(2009),"He tells her he left the office,",1:22:55,1:22:59,4975,4979,4,3250,3282,32,Fail,process
+67,500 Days of Summer(2009),"and notes that she got married,",1:23:05,1:23:08,4985,4988,3,3283,3314,31,Fail,process
+68,500 Days of Summer(2009),which he cannot comprehend as she never wanted to be someone's girlfriend.,1:23:47,1:23:59,5027,5039,12,3315,3389,74,Fail,process
+69,500 Days of Summer(2009),"Summer says she got married because she felt sure, which she did not with Tom.",1:24:08,1:24:18,5048,5058,10,3390,3468,78,Fail,process
+70,500 Days of Summer(2009),"When he says he was wrong about true love existing,",1:24:33,1:24:48,5073,5088,15,3469,3520,51,Fail,process
+71,500 Days of Summer(2009),"she counters that he was right about it, just wrong about it being with her.",1:24:52,1:26:09,5092,5169,77,3521,3597,76,Fail,process
+72,500 Days of Summer(2009),She tells him she is glad he is doing well.,1:26:32,1:26:35,5192,5195,3,3598,3641,43,Fail,process
+73,500 Days of Summer(2009),Tom wishes her happiness.,1:26:43,1:26:48,5203,5208,5,3642,3667,25,Fail,process
+74,500 Days of Summer(2009),"On Wednesday, May 23, Tom meets a woman applying for the same job.",1:27:39,1:30:23,5259,5423,164,3669,3735,66,Success,process
+75,500 Days of Summer(2009),He finds she shares his favorite spot,1:28:40,1:28:48,5320,5328,8,3736,3773,37,Fail,process
+76,500 Days of Summer(2009),and invites her for coffee afterwards.,1:29:42,1:29:52,5382,5392,10,3774,3812,38,Fail,process
+77,500 Days of Summer(2009),"She politely declines,",1:29:53,1:29:59,5393,5399,6,3813,3835,22,Fail,process
+78,500 Days of Summer(2009),then changes her mind.,1:30:09,1:30:13,5409,5413,4,3836,3858,22,Fail,change_of_state
+79,500 Days of Summer(2009),She reveals her name as Autumn.,1:30:20,1:30:23,5420,5423,3,3859,3890,31,Fail,process
+80,500 Days of Summer(2009),"The day counter then resets to Day 1, becoming brighter than it ever did during the Days of Summer.",1:30:28,1:30:35,5428,5435,7,3891,3991,100,Success,change_of_state

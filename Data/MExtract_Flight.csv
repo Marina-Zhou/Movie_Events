@@ -1,0 +1,65 @@
+EventID,MovieName,EventDescription,StartTime,EndTime,StartTime(s),EndTime(s),Duration(s),start_point,end_point,Text_length,Aligned,EventType
+1,Flight(2012),Airline pilot Captain Whip Whitaker uses cocaine to stay alert after a sleepless night in his Orlando hotel room.,0:03:27,0:03:47,207,227,20,0,113,113,Success,process
+2,Flight(2012),"He pilots SouthJet Flight 227 to Atlanta,",0:09:33,0:25:02,573,1502,929,114,155,41,Success,process
+3,Flight(2012),which experiences severe turbulence at takeoff.,0:09:46,0:12:39,586,759,173,156,203,47,Success,change_of_state
+4,Flight(2012),Co-pilot Ken Evans takes over,0:12:59,0:13:02,779,782,3,204,233,29,Fail,process
+5,Flight(2012),while Whip discreetly mixes vodka in his orange juice,0:14:57,0:15:33,897,933,36,234,287,53,Success,process
+6,Flight(2012),and takes a nap.,0:17:07,0:17:21,1027,1041,14,288,304,16,Success,change_of_state
+7,Flight(2012),He is jolted awake as the plane goes into a steep dive.,0:17:38,0:17:43,1058,1063,5,305,360,55,Fail,change_of_state
+8,Flight(2012),"Unable to regain control,",0:17:44,0:21:12,1064,1272,208,361,386,25,Success,non_event
+9,Flight(2012),"Whip is forced to make a controlled crash landing in an open field,",0:23:14,0:25:02,1394,1502,108,387,454,67,Success,process
+10,Flight(2012),hitting his head,0:25:03,0:25:07,1503,1507,4,455,471,16,Success,process
+11,Flight(2012),and losing consciousness on impact.,0:25:08,0:26:16,1508,1576,68,472,507,35,Success,change_of_state
+12,Flight(2012),Whip awakens in an Atlanta hospital with moderate injuries,0:26:18,0:27:24,1578,1644,66,509,567,58,Success,change_of_state
+13,Flight(2012),"and is greeted by his old friend Charlie Anderson,",0:27:27,0:27:42,1647,1662,15,568,618,50,Success,process
+14,Flight(2012),who represents the airline's pilots union.,0:30:59,0:31:02,1859,1862,3,619,661,42,Fail,stative_event
+15,Flight(2012),"He tells Whip that he managed to save 96 out of 102, losing two crew members and four passengers,",0:27:44,0:28:07,1664,1687,23,662,759,97,Fail,process
+16,Flight(2012),but mentions his co-pilot is in a coma.,0:31:52,0:32:02,1912,1922,10,760,799,39,Fail,process
+17,Flight(2012),Whip sneaks away for a cigarette,0:38:44,0:39:01,2324,2341,17,800,832,32,Success,process
+18,Flight(2012),"and meets Nicole Maggen,",0:39:02,0:39:48,2342,2388,46,833,857,24,Success,process
+19,Flight(2012),a heroin addict recovering from an overdose in the same hospital.,0:42:04,0:42:10,2524,2530,6,858,923,65,Fail,stative_event
+20,Flight(2012),"The next morning, his friend and drug dealer Harling Mays picks him up from the hospital.",0:45:42,0:46:29,2742,2789,47,924,1013,89,Success,process
+21,Flight(2012),"Having retired to his late father's farm,",0:46:35,0:47:37,2795,2857,62,1015,1056,41,Success,process
+22,Flight(2012),"Whip meets Charlie and attorney Hugh Lang,",0:52:16,0:52:26,3136,3146,10,1057,1099,42,Fail,process
+23,Flight(2012),who explain that the National Transportation Safety Board (NTSB) performed a drug test while he was unconscious.,0:54:15,0:54:36,3255,3276,21,1100,1212,112,Fail,process
+24,Flight(2012),"Results showed that Whip was intoxicated during the flight,",0:54:58,0:56:00,3298,3360,62,1213,1272,59,Fail,stative_event
+25,Flight(2012),although Hugh gets the toxicology report voided on technical grounds.,1:34:32,1:34:42,5672,5682,10,1273,1342,69,Fail,stative_event
+26,Flight(2012),Whip visits,0:58:15,1:00:50,3495,3650,155,1343,1354,11,Fail,process
+27,Flight(2012),"and becomes intimate with Nicole,",1:01:37,1:03:37,3697,3817,120,1355,1388,33,Success,change_of_state
+28,Flight(2012),but his drinking habits clash with Nicole's attempts to stay drug-free.,1:27:50,1:31:00,5270,5460,190,1389,1460,71,Success,process
+29,Flight(2012),"Later, he attends a funeral for Katerina,",1:15:31,1:15:40,4531,4540,9,1461,1502,41,Success,process
+30,Flight(2012),"a flight attendant who died in the crash,",0:30:50,0:30:55,1850,1855,5,1503,1544,41,Fail,change_of_state
+31,Flight(2012),and with whom Whip had spent the night before the incident.,0:00:32,0:01:00,32,60,28,1545,1604,59,Fail,process
+32,Flight(2012),"He sees a surviving crew member, Margaret,",1:15:56,1:16:59,4556,4619,63,1605,1647,42,Success,process
+33,Flight(2012),and asks her to tell the NTSB that he was sober.,1:17:00,1:19:17,4620,4757,137,1648,1696,48,Success,process
+34,Flight(2012),Whip pays a visit to his co-pilot Ken Evans Whip,1:22:50,1:26:53,4970,5213,243,1698,1741,48,Success,process
+35,Flight(2012),after he awakens from his coma.,0:00:00,0:00:00,0,0,0,1742,1773,31,Fail,change_of_state
+36,Flight(2012),Evans has likely lost much of his ability to walk,1:24:03,1:24:11,5043,5051,8,1774,1823,49,Fail,change_of_state
+37,Flight(2012),and may never pilot an airplane again.,1:24:12,1:24:14,5052,5054,2,1824,1862,38,Fail,non_event
+38,Flight(2012),"Although upset, Evans has no intention of telling the NTSB that Whip was drinking.",1:25:07,1:25:58,5107,5158,51,1863,1945,82,Fail,non_event
+39,Flight(2012),Nicole decides to separate from Whip after he fails to stay sober,1:29:36,1:32:37,5376,5557,181,1946,2011,65,Success,process
+40,Flight(2012),"and he spontaneously drives to the home of his ex-wife and son,",1:37:30,1:38:40,5850,5920,70,2012,2075,63,Success,process
+41,Flight(2012),both of whom resent him.,1:38:42,1:39:55,5922,5995,73,2076,2100,24,Fail,stative_event
+42,Flight(2012),"Hounded by the media,",1:39:58,1:40:12,5998,6012,14,2101,2122,21,Fail,process
+43,Flight(2012),"he stays with Charlie until the NTSB hearing,",1:40:30,1:41:48,6030,6108,78,2123,2168,45,Fail,process
+44,Flight(2012),vowing not to drink.,1:41:49,1:41:56,6109,6116,7,2169,2189,20,Fail,process
+45,Flight(2012),"The night before the hearing, Charlie and Hugh move Whip to a guarded hotel room with no alcohol.",1:42:06,1:44:03,6126,6243,117,2190,2287,97,Success,process
+46,Flight(2012),He finds the door to an adjacent room unlocked,1:46:03,1:46:37,6363,6397,34,2288,2334,46,Success,process
+47,Flight(2012),and raids the minibar there.,1:47:03,1:48:53,6423,6533,110,2335,2363,28,Success,process
+48,Flight(2012),"The next morning, Charlie discovers Whip passed out drunk.",1:48:54,1:50:07,6534,6607,73,2365,2423,58,Success,process
+49,Flight(2012),"Whip and Charlie call Harling to provide Whip with cocaine, hoping to get him alert enough to make it through the hearing.",1:50:27,1:54:14,6627,6854,227,2424,2546,122,Success,process
+50,Flight(2012),"At the hearing, lead NTSB investigator Ellen Block explains that a damaged elevator assembly jackscrew was the primary cause of the crash.",1:59:01,1:59:49,7141,7189,48,2547,2685,138,Fail,process
+51,Flight(2012),"She commends Whip on his valor and skill,",1:55:47,1:58:12,6947,7092,145,2686,2727,41,Fail,process
+52,Flight(2012),noting that no other pilot was able to land the plane in simulations of the crash.,1:35:55,1:36:13,5755,5773,18,2728,2810,82,Fail,process
+53,Flight(2012),"She then reveals that two empty vodka bottles were found in the plane's trash, despite beverages not being served to passengers,",2:01:13,2:01:31,7273,7291,18,2811,2939,128,Fail,process
+54,Flight(2012),and that Whip's blood test was excluded for technical reasons.,2:01:35,2:02:19,7295,7339,44,2940,3002,62,Fail,process
+55,Flight(2012),She then states the only other member of the crew to test positive for alcohol was Katerina.,2:03:51,2:03:57,7431,7437,6,3003,3095,92,Fail,process
+56,Flight(2012),"Whip pauses, unable to bring himself to blame Katerina for his actions.",2:03:16,2:04:15,7396,7455,59,3096,3167,71,Success,change_of_state
+57,Flight(2012),He collects himself,2:04:18,2:04:23,7458,7463,5,3168,3187,19,Fail,process
+58,Flight(2012),"and comes clean, admitting to being intoxicated the day of the crash.",2:04:25,2:05:25,7465,7525,60,3188,3257,69,Fail,process
+59,Flight(2012),"A tearful Whip also admits that he is presently drunk and has a problem, coming to terms with his alcoholism.",2:05:30,2:05:53,7530,7553,23,3258,3367,109,Fail,process
+60,Flight(2012),"Thirteen months later, an imprisoned Whip is lecturing a support group of fellow inmates telling them he is glad to be sober and doesn't regret doing the right thing.",2:06:20,2:09:21,7580,7761,181,3369,3535,166,Success,process
+61,Flight(2012),"He is also working to rebuild his relationship with his son,",2:10:20,2:11:28,7820,7888,68,3536,3596,60,Success,process
+62,Flight(2012),who visits to interview Whip for a college application essay titled "The most fascinating person that I've never met".,2:10:52,2:11:20,7852,7880,28,3597,3715,118,Fail,process
+63,Flight(2012),"He begins by asking, ""Who are you?""",2:11:30,2:11:40,7890,7900,10,3716,3751,35,Fail,process
+64,Flight(2012),"As a plane flies overhead, Whip replies, ""That's a good question.""",2:11:43,2:11:53,7903,7913,10,3752,3818,66,Fail,process
